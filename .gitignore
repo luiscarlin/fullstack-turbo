@@ -13,6 +13,9 @@ coverage
 out/
 build
 
+# built artifacts
+dist
+
 # misc
 .DS_Store
 *.pem
